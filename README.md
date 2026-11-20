@@ -26,6 +26,3 @@ In this challenge, I learned about Persistence. Persistence means how an attacke
 ## My Goal
 
 My goal is to learn Cybersecurity practically by solving real CTF challenges and documenting my progress here. I want to improve my skills step by step and become a good Cybersecurity professional in the future.
-![Flag 1](IMG-20261120-WA0001.jpg)
-![Flag 2](IMG-20261120-WA0002.jpg)
-![Flag 3](IMG-20261120-WA0003.jpg)
